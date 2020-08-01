@@ -5,5 +5,3 @@
 
 #id admin=admin
 
-(video)
-
